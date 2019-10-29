@@ -1,0 +1,7 @@
+Ashish
+
+git add .
+
+git commit -m "adding my own file"
+
+git push
